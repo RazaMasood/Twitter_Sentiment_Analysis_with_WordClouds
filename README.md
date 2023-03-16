@@ -15,5 +15,5 @@ This project aims to perform sentiment analysis on Twitter data and visualize th
 4. Replace "filename.csv" with the name of your own Twitter data file
 5. Run the cells in the notebook in order
 
-###Contributing
+### Contributing
 Contributions to this project are welcome! If you find a bug or have a suggestion for a new feature, please open an issue on GitHub.
